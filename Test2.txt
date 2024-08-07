@@ -1,2 +1,6 @@
 Hello You are in Test 2 
 update after adding to git hub
+to change content we need to commit in git hub
+push is to push data to remote 
+pull is to pull data from remote
+without pull no changes shown in local repo
